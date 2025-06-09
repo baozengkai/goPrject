@@ -36,9 +36,9 @@ func main() {
 
 	// 3.初始化第三种
 	var p3 = Person{
-		Name: "<UNK>",
-		Age:  18,
-		Sex:  "Male",
+		name: "<UNK>",
+		age:  18,
+		sex:  "Male",
 	}
 	fmt.Println(p3)
 }
